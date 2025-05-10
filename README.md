@@ -6,7 +6,7 @@ DataCraze is an interactive web-based Twitter analytics dashboard developed usin
 
 This project was built using a dataset of over **150,000 preprocessed tweets** sourced from a larger dataset of more than **300,000 tweets**.
 
-**Live App:** [https://twitter-analytics.streamlit.app](https://twitter-analytics.streamlit.app/)
+**Live App:** [Live](https://twitter-analytics.streamlit.app/)
 
 ## Features
 
@@ -69,7 +69,7 @@ Then, open your browser and go to `http://localhost:8501`.
 ## Live Demo
 
 Visit the live dashboard hosted on Streamlit Cloud:
-👉 [https://twitter-analytics.streamlit.app](https://twitter-analytics.streamlit.app/)
+👉 [Live](https://twitter-analytics.streamlit.app/)
 
 ## Project Highlights
 
