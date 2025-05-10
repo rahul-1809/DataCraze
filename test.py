@@ -5,7 +5,7 @@ from datetime import datetime
 
 # Load dataset
 def load_data():
-    file_path = "final_preprocessed.csv"  # Update path if needed
+    file_path = "final_preprocessed.csv"  
     df = pd.read_csv(file_path)
     df["date"] = pd.to_datetime(df["date"], errors="coerce")
     numeric_columns = ["retweetCount", "likeCount", "viewCount", "author_followers", "author_following"]
